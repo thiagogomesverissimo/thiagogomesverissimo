@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on @fflch
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently working with PHP, Python and R languages
 - 👯 I’m looking to collaborate on Universities Research
 
 <p align="left">
